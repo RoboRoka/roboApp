@@ -1,2 +1,2 @@
 # roboApp
-iOs app for controlling the roboroka device over bluetooth
+iOS app for controlling the roboroka device over bluetooth
